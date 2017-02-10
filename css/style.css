@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.x {
+	border: #EB0003 thin solid;
+}
+.theader{
+	color:#3D2C2C;
+	font-size:60px;
+	position:absolute;
+	line-height:180px;
+	}
+	.space{
+		margin-top:5px;
+	
+		}
